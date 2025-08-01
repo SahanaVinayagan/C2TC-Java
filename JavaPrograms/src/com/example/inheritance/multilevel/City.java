@@ -1,4 +1,4 @@
-package com.example.multilevel;
+package com.example.inheritance.multilevel;
 
 public class City extends State{
 	private String cityName;

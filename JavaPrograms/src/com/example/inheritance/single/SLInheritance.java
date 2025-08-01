@@ -1,4 +1,4 @@
-package com.example.inheritence;
+package com.example.inheritance.single;
 
 public class SLInheritance {
 

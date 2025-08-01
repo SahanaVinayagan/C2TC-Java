@@ -1,4 +1,4 @@
-Apackage com.example.encapsulationnew;
+package com.example.encapsulationnew;
 
 import java.util.Scanner;
 
