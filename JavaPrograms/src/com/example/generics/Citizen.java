@@ -1,4 +1,4 @@
-package com.example.inheritance.hierarchical;
+package com.example.generics;
 
 public class Citizen {
 	private String name;
@@ -48,5 +48,5 @@ public class Citizen {
 	public void setPhNo(long phNo) {
 		this.phNo = phNo;
 	}
-	
+
 }
